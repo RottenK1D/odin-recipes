@@ -11,4 +11,5 @@ Display HTML knowledge:
 5.link index.html with smoothie-bowl.html
 6.add image
 7.add description
+8.add ingredients
 5.publish to public
