@@ -8,4 +8,5 @@ Display HTML knowledge:
 2.add boiler plate
 3.add h1 header
 4.create directory and name "recipes"
+5.link index.html with smoothie-bowl.html
 5.publish to public
