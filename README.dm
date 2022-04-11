@@ -7,4 +7,5 @@ Display HTML knowledge:
 1.create file
 2.add boiler plate
 3.add h1 header
-3.publish to public
+4.create directory and name "recipes"
+5.publish to public
