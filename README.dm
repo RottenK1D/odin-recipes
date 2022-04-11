@@ -10,4 +10,5 @@ Display HTML knowledge:
 4.create directory and name "recipes"
 5.link index.html with smoothie-bowl.html
 6.add image
+7.add description
 5.publish to public
