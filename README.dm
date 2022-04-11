@@ -1,6 +1,6 @@
 ODIN project "Odin-recipes"
 
-Setting up static HTML file
+Setting up static HTML webpage
 
 Display HTML knowledge:
 
