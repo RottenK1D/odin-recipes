@@ -12,4 +12,5 @@ Display HTML knowledge:
 6.add image
 7.add description
 8.add ingredients
+9.add instructions
 5.publish to public
