@@ -1,0 +1,24 @@
+body {
+    background-color: #cad2c5;
+}
+
+h1 {
+    color: #52796f;
+    font-size: 80px;
+    font-family: Roboto, Arial, sans-serif;
+    font-weight: 600;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.link a {
+    text-decoration: none;
+    font-size: 25px;
+    color: #231f20;
+  }
+
+a:hover {
+    font-weight: 600;
+}

@@ -14,3 +14,10 @@ Display HTML knowledge:
 8.add ingredients
 9.add instructions
 5.publish to public
+
+Display CSS knowledge:
+
+1.Style main page:
+    change font size and style
+    remove bullets from <ul> tag and underline from <a> link
+    
