@@ -20,4 +20,10 @@ Display CSS knowledge:
 1.Style main page:
     change font size and style
     remove bullets from <ul> tag and underline from <a> link
+2.Style recipe page - "Smoothie Bowl":
+    add background color
+    change font size and style
+    resize image
+
+
     
