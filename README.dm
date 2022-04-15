@@ -31,5 +31,10 @@ Display CSS knowledge:
     change font size and style
     resize image
 
+4.Style recipe page - "Roasted Strawberry Tart":
+    add background color
+    change font size and style
+    resize image
+
 
     
