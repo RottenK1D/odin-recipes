@@ -36,5 +36,7 @@ Display CSS knowledge:
     change font size and style
     resize image
 
+Laying out and position CSS:
+
 
     
